@@ -1,0 +1,19 @@
+db.posts.insert({
+...     title: "Post One",
+...     body: "Body of post one",
+...     category: "News",
+...     likes: 4,
+...     tags: ["news", "events"],
+...     user: {
+...         name: "John Marston",
+...         status: "author"
+...     },
+...     date: Date()
+... })
+
+... and other commands from
+https://www.youtube.com/watch?v=-56x56UppqQ
+
+
+
+- Installed MongoDB Compass
