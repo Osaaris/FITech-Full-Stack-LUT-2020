@@ -1,5 +1,5 @@
 Assignment returnings for FITech course: "Software development skills: Full-stack"
-__
+____
 
 Näissä osioissa on "Software development skills: Full-stack" -kurssin tehtävien palautukset.
 
