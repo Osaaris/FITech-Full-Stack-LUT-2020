@@ -1,7 +1,7 @@
-Assignment returnings for FITech Software development skills: Full-stack
-_____________________
+Assignment returnings for FITech course: "Software development skills: Full-stack"
+__
 
-Näissä osioissa on Software development skills: Full-stack -kurssin tehtävien palautukset.
+Näissä osioissa on "Software development skills: Full-stack" -kurssin tehtävien palautukset.
 
 Kurssin järjestää LUT-yliopisto ja sen laajuus on 3 op.
 
