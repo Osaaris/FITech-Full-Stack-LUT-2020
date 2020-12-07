@@ -51,12 +51,10 @@ router.post("/authenticate", (req, res, next) => {
             email: user.email
           }
         });
-      }
-      else {
+      } else {
         return res.json({ success: false, msg: "Wrong password" });
       }
     });
-
   });
 });
 
@@ -64,10 +62,5 @@ router.post("/authenticate", (req, res, next) => {
 router.get("/profile", passport.authenticate("jwt", { session: false }), (req, res, next) => {
   res.json({ user: req.user });
 });
-
-/* // Validate
-router.get("/validate", (req, res, next) => {
-  res.send("VALIDATE");
-}); */
 
 module.exports = router;

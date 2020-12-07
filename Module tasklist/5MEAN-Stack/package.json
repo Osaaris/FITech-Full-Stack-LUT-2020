@@ -8,16 +8,15 @@
     "start": "node app"
   },
   "dependencies": {
-    "bcryptjs": "*",
-    "body-parser": "*",
-    "cors": "*",
     "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
     "jsonwebtoken": "*",
-    "mongoose": "^5.11.4",
-    "nodemon": "^2.0.6",
+    "body-parser": "*",
     "passport": "*",
     "passport-jwt": "*"
   },
-  "author": "",
+  "author": "Brad Traversy",
   "license": "ISC"
 }
