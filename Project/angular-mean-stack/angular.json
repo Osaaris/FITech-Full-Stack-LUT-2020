@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "mean-stack": {
+    "angular-mean-stack": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/mean-stack",
+            "outputPath": "../public",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -61,18 +61,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "mean-stack:build"
+            "browserTarget": "angular-mean-stack:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "mean-stack:build:production"
+              "browserTarget": "angular-mean-stack:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "mean-stack:build"
+            "browserTarget": "angular-mean-stack:build"
           }
         },
         "test": {
@@ -109,16 +109,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "mean-stack:serve"
+            "devServerTarget": "angular-mean-stack:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "mean-stack:serve:production"
+              "devServerTarget": "angular-mean-stack:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "mean-stack"
+  "defaultProject": "angular-mean-stack"
 }
