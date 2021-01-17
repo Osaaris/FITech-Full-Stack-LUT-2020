@@ -8,26 +8,25 @@ Kurssin järjestää LUT-yliopisto ja sen laajuus on 3 op.
 https://fitech.io/fi/opinnot/software-development-skills-full-stack/
 
 ____
-- Oppimispäiväkirja löytyy hakemiston juuresta
-- Linkki videoon: (on to-do list)
+- Oppimispäiväkirja löytyy alapuolelta
+- Linkki videoon: https://drive.google.com/file/d/1N-jY-ZAmRQJGn4Gvm_bQHreiqHnRN2tO/view?usp=sharing
 - Module task -kansiossa ovat kurssitehtävät
 - Projekti löytyy Project-kansiosta.
 
 
-
 ____
 ____
 
 
-Lappeenrannan teknillinen yliopisto
-School of Business and Management
+**Lappeenrannan teknillinen yliopisto**
+**School of Business and Management**
 
 
 
 
 
 
-Sofware Development Skills
+S**ofware Development Skills**
 
 Olli Saaristo, **********
 
@@ -37,13 +36,13 @@ Anytime-course: Software Development Skills: Full-Stack 2020-21 MODULE
  
 LEARNING DIARY
 
-30.11.2020
+**30.11.2020**
 (link to my GitHub) https://github.com/Osaaris/FITech-Full-Stack-LUT-2020
 
 (video)
 https://drive.google.com/file/d/1N-jY-ZAmRQJGn4Gvm_bQHreiqHnRN2tO/view?usp=sharing
 
-Node.js
+**Node.js**
 
 I was familiar with Git and many text editors, but I decided to use good old VS Code, because I'm most experienced with it. I prefer VS Code over Atom, Notepad++, Editra, SublimeText, etc. because it's simple and easy to use and has a lot of great extensions. I have also decided to use GitHub over Bitbucket, mainly because I want to keep my repositories in one place.
 
@@ -57,8 +56,8 @@ o	Ctrl+K+C (undo Ctrl+K+U)
 I created Heroku user, but I'll rather use my GitHub to store the codes.
 I watched the video entirely, and learned a lot of new information about how the node modules work and how to create them as on your own. All I can say is that thank god we don't have to create them, when we can download them with npm.
 
-30.11.2020
-MongoDB
+**30.11.2020
+MongoDB**
 
 I learned few new things about MongoDB and installed MongoDB Compass.
 I copy and pasted the useful commands from GitHub document to my local notes.
@@ -68,8 +67,8 @@ I have also enrolled to another course by another organization, and I have acces
 
 
 
-1.12.2020
-Angular
+**1.12.2020
+Angular**
 https://angular.io/tutorial
 
 This is my first time when I'm using Angular. The CLI was easy to install. I haven't worked with .ts files before and the syntax is different I've used to.
@@ -90,8 +89,8 @@ The tutorial itself was nice, but there's so much new information to me that I m
 
 
 
-2.12.2020
-ExpressJS
+**2.12.2020
+ExpressJS**
 https://www.youtube.com/watch?v=L72fhGm1tfE
 
 Dealing with APIs is not my strong suit, but I learned new information about the structure and how to make API calls. Backend in general is something I need to study more.
@@ -102,8 +101,8 @@ I struggle with API things in general, so it's something I need to work on.
 The video used Postman for the exercises, but I used Insomnia because I'm more familiar with it. 
 
 
-7.12.2020
-ExpressJS
+**7.12.2020
+ExpressJS**
 I continued the tutorial. I had some problems with the connections to database, couple typos and one of the functions was outdated in the video. Luckily someone commented on YouTube comment section, that the password had to be "toString()" instead of just "String".
 
 password: {
@@ -128,8 +127,8 @@ I had more technical difficulties than before as the video was outdated and some
 
 
 
-15.12.2020
-MEAN-Stack
+**15.12.2020
+MEAN-Stack**
 I completed the rest of the videos today, but the code doesn't work properly... I will have to check the final code and see if I can find some differences.
 I did all except the Heroku push part, since I don't want to push it there. I noticed that he used MLab, which I have used too.
 
@@ -139,13 +138,13 @@ Everything with Angular was new to me, so these videos came really handy and I l
 
 
 
-16.12.2020
-MEAN-Stack
+**16.12.2020
+MEAN-Stack**
 I started to make the project app, and started from the beginning with the tutorial videos. Knowing what to except from the tutorials, it's easier to follow and understand what is going on.
 I was thinking on building a simple blog or text-based website with the necessary logins and backend.
 
 
-17.12.2020
+**17.12.2020**
 I had problems with Insomnia (again) but thankfully one of the YouTube comments was able to fix the situation (bolded):
 
 Greyson Yee
@@ -185,7 +184,7 @@ as instructed in here:
 https://stackoverflow.com/questions/38892771/cant-bind-to-ngmodel-since-it-isnt-a-known-property-of-input
 
 
-17.1.2021
+**17.1.2021**
 I'm returning the course project. I couldn't get the backend to work properly, so the register and login forms are not working properly.
 This is the best I can do with my current skills.
 
