@@ -2,7 +2,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { LoginComponent } from './components/login/login.component';
@@ -12,7 +11,10 @@ import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { ProfileComponent } from './components/profile/profile.component';
 
 import { ValidateService } from './services/validate.service';
+import { AuthService } from './services/auth.service';
 import { FormsModule } from '@angular/forms';
+
+import { HttpClientModule } from '@angular/common/http';
 
 const appRoutes: Routes = [
   { path: "", component: HomeComponent },
@@ -35,9 +37,10 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     RouterModule.forRoot(appRoutes),
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
-  providers: [ValidateService],
+  providers: [ValidateService, AuthService, HttpClientModule],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
