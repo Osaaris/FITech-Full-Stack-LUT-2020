@@ -26,9 +26,9 @@ ____
 
 
 
-S**ofware Development Skills**
+**Sofware Development Skills**
 
-Olli Saaristo, **********
+Olli Saaristo, 000129978
 
 
 LEARNING DIARY,
