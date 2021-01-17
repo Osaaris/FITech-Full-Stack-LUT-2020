@@ -8,11 +8,11 @@ Kurssin järjestää LUT-yliopisto ja sen laajuus on 3 op.
 https://fitech.io/fi/opinnot/software-development-skills-full-stack/
 
 ____
-- Oppimispäiväkirja löytyy alapuolelta
-- Linkki videoon: https://drive.google.com/file/d/1N-jY-ZAmRQJGn4Gvm_bQHreiqHnRN2tO/view?usp=sharing
-- Module task -kansiossa ovat kurssitehtävät
-- Projekti löytyy Project-kansiosta.
-
+- 1. Olli Saaristo
+- 2. Oppimispäiväkirja löytyy alapuolelta
+- 3. Projekti ja palautukset yläpuolella
+- 4. (ReadME)Module task -kansiossa ovat kurssitehtävät; Projekti löytyy Project-kansiosta.
+- 5. Linkki videoon: https://drive.google.com/file/d/1N-jY-ZAmRQJGn4Gvm_bQHreiqHnRN2tO/view?usp=sharing
 
 ____
 ____
